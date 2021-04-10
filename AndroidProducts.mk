@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_whyred.mk
+    $(LOCAL_DIR)/octavi_whyred.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_whyred-user \
-    aosp_whyred-userdebug \
-    aosp_whyred-eng
+    octavi_whyred-user \
+    octavi_whyred-userdebug \
+    octavi_whyred-eng
