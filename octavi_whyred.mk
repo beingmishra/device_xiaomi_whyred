@@ -15,6 +15,9 @@ $(call inherit-product, vendor/octavi/config/common_full_phone.mk)
 # Inherit from whyred device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
+# Inherit from vendor
+$(call inherit-product, vendor/MiuiCamera/config.mk)
+
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := whyred
 PRODUCT_MANUFACTURER := Xiaomi
