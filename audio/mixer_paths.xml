@@ -2186,7 +2186,7 @@
     <path name="handset">
         <ctl name="RX1 MIX1 INP1" value="RX1" />
         <ctl name="RDAC2 MUX" value="RX1" />
-        <ctl name="RX1 Digital Volume" value="92" />
+        <ctl name="RX1 Digital Volume" value="97" />
         <ctl name="EAR PA Gain" value="POS_6_DB" />
         <ctl name="EAR_S" value="Switch" />
     </path>
@@ -2313,8 +2313,8 @@
 
     <path name="voice-headphones">
         <path name="headphones" />
-        <ctl name="RX1 Digital Volume" value="84" />
-        <ctl name="RX2 Digital Volume" value="84" />
+        <ctl name="RX1 Digital Volume" value="89" />
+        <ctl name="RX2 Digital Volume" value="89" />
     </path>
 
     <path name="voice-line">
@@ -2323,8 +2323,8 @@
 
     <path name="voice-headset">
         <path name="headphones" />
-        <ctl name="RX1 Digital Volume" value="84" />
-        <ctl name="RX2 Digital Volume" value="84" />
+        <ctl name="RX1 Digital Volume" value="89" />
+        <ctl name="RX2 Digital Volume" value="89" />
     </path>
 
     <path name="voice-headset-mic">
